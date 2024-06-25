@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Ana",
+        "lab_points": 16,
+        "midterm_points": 7,
+        "quiz_points": 11,
+        "final_exam_points": 30
+    },
+    {
+        "name": "Bob",
+        "lab_points": 20,
+        "midterm_points": 15,
+        "quiz_points": 10,
+        "final_exam_points": 25
+    },
+    {
+        "name": "Cara",
+        "lab_points": 18,
+        "midterm_points": 9,
+        "quiz_points": 12,
+        "final_exam_points": 28
+    },
+    {
+        "name": "David",
+        "lab_points": 14,
+        "midterm_points": 10,
+        "quiz_points": 8,
+        "final_exam_points": 22
+    },
+    {
+        "name": "Emma",
+        "lab_points": 19,
+        "midterm_points": 11,
+        "quiz_points": 14,
+        "final_exam_points": 27
+    },
+    {
+        "name": "Frank",
+        "lab_points": 12,
+        "midterm_points": 8,
+        "quiz_points": 10,
+        "final_exam_points": 24
+    },
+    {
+        "name": "Grace",
+        "lab_points": 17,
+        "midterm_points": 9,
+        "quiz_points": 13,
+        "final_exam_points": 26
+    },
+    {
+        "name": "Harry",
+        "lab_points": 15,
+        "midterm_points": 10,
+        "quiz_points": 11,
+        "final_exam_points": 23
+    },
+    {
+        "name": "Ivy",
+        "lab_points": 20,
+        "midterm_points": 12,
+        "quiz_points": 15,
+        "final_exam_points": 29
+    },
+    {
+        "name": "Jack",
+        "lab_points": 13,
+        "midterm_points": 8,
+        "quiz_points": 9,
+        "final_exam_points": 21
+    }
+]
